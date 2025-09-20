@@ -45,7 +45,7 @@ VisionX/
    ```bash
    git clone https://github.com/rishmeh/VisionX.git
    cd VisionX
-````
+   ```
 
 2. Install dependencies:
 
@@ -99,8 +99,3 @@ VisionX/
 * **Palak Bansal** – AI/ML
 * **Shubhrika** – Edge Device
 * **Priyanshi Jain** – Research
-
----
-
-Would you like me to also include **screenshots and usage examples** (like terminal outputs and ESP32-CAM stream snapshots) in the README for better presentation on GitHub?
-```
